@@ -1,0 +1,5 @@
+q1: l216003_q2.c
+	gcc $< -o q2
+
+clean:
+	rm -f q2
